@@ -1,4 +1,0 @@
-requests==2.23.0
-google==3.0.0
-beautifulsoup4==4.9.1
-urllib3==1.25.9
